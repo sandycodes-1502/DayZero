@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+        android:drawable="@drawable/dayzero">
+
+        <target
+            android:name="path_Dvertical"
+            android:animation="@animator/draw_line_dvertical"/>
+
+<!--        <target-->
+<!--            android:animation="@animator/draw_line_dinside"-->
+<!--            android:name="path_Dinside" />-->
+
+        <target
+            android:animation="@animator/draw_line_zerotopleft"
+            android:name="path_zerotopleft" />
+
+        <target
+            android:animation="@animator/draw_line_zerorightside"
+            android:name="path_zerorightside" />
+
+<!--        <target-->
+<!--            android:animation="@animator/draw_line_outline"-->
+<!--            android:name="path_outline" />-->
+
+    </animated-vector>

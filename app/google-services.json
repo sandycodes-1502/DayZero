@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "635348949765",
+    "project_id": "dayzero-2205",
+    "storage_bucket": "dayzero-2205.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635348949765:android:118a18580203ea1a44f56c",
+        "android_client_info": {
+          "package_name": "com.sandycodes.dayzero"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXxAmhpbEGwf1qikt7UE_WOK6WxOrRPBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
