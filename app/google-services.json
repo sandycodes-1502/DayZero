@@ -12,7 +12,20 @@
           "package_name": "com.sandycodes.dayzero"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "635348949765-9lfj6dnq2vn8acso2rjufuara8096fv1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sandycodes.dayzero",
+            "certificate_hash": "11ca143002103d84c4508089ff4399152e960a60"
+          }
+        },
+        {
+          "client_id": "635348949765-90r2c4mt5p5icol1c8ngml0vpbcd3i3b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyBXxAmhpbEGwf1qikt7UE_WOK6WxOrRPBo"
@@ -20,7 +33,12 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635348949765-90r2c4mt5p5icol1c8ngml0vpbcd3i3b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }

@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- Splash Screen Theme -->
     <style name="Theme.DayZero.Splash" parent="Theme.SplashScreen">
         <item name="windowSplashScreenBackground">@color/black</item>
 
-        <!-- your animated logo -->
         <item name="windowSplashScreenAnimatedIcon">
-            @drawable/logo_animated
+            @drawable/ic_launcher_foreground
         </item>
 
         <item name="windowSplashScreenAnimationDuration">900</item>
 
-        <!-- Theme applied AFTER splash -->
         <item name="postSplashScreenTheme">
             @style/Theme.DayZero
         </item>
     </style>
 
-    <style name="Theme.DayZero" parent="Theme.AppCompat.DayNight.NoActionBar" />
+    <style name="Theme.DayZero" parent="Theme.AppCompat.Light.NoActionBar" />
 </resources>

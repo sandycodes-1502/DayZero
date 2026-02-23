@@ -12,7 +12,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.DayZero">
         <activity
-            android:name=".activities.MainActivity"
+            android:name=".ui.activities.MainActivity"
             android:exported="true"
             android:theme="@style/Theme.DayZero.Splash">
             <intent-filter>
